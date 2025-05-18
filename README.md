@@ -1,34 +1,48 @@
-# [Fast & Flexible Link In Bio Theme](https://github.com/HugoBlox/theme-link-in-bio)
+# Jessica Herrera Anderson
 
-[![Screenshot](./.github/preview.webp)](https://hugoblox.com/templates/)
+Software Developer Intern and Cybersecurity Student with a passion for problem-solving in IT systems.
 
-The **Fast & Flexible Link In Bio Template** empowers you to easily create a personalized and customizable page that houses all the important links that you want to share with your audience.
+## 👋 Hello!
 
-It's a link-in-bio solution that can be used on social platforms like Instagram, TikTok, Twitch, Facebook, YouTube, Twitter, LinkedIn, and more, by pasting your website link in your social media bio. **Start accelerating the discovery of your work, brand, or business!**
+I’m **Jessica Herrera Anderson**, a Software Developer Intern and cybersecurity student with a passion for solving technical problems and supporting secure systems. Currently an intern at OpenQQuantify and a resolution specialist at Walmart.
 
-️**Trusted by 250,000+ creators, researchers, and educators.** Highly customizable via the integrated **no-code, block-based Hugo Blox page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+---
 
-[Check out the latest demo](https://link-in-bio-theme.netlify.app) of what you'll get in less than 5 minutes, or [view the showcase](https://hugoblox.com/creators/).
+## 🛠️ Skills
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+- Python, JavaScript, HTML, CSS
+- Linux, Git, Bash
+- Cybersecurity fundamentals
+- Problem-solving & troubleshooting
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+---
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Bibtex to Markdown tool](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) _#MadeWithHugoBlox_
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 🎓 Education
 
-## We ask you, humbly, to support this open source movement
+- **DeVry University**  
+  B.S. in Computer Information Systems (Cybersecurity Specialization)
 
-Today we ask you to defend the open source independence of the Hugo Blox website builder and themes 🐧
+---
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## 💼 Experience
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://hugoblox.com/sponsor/)
+- **Software Developer Intern**  
+  OpenQQuantify  
+  *June 2024 – Present*
+
+- **Resolution Specialist**  
+  Walmart  
+  *2023 – Present*
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/jessicaherreraanderson)
+- Email: herrerajessica17@gmail.com
+## 📄 Resume
+
+[Download my resume](static/uploads/25AndersonResume.pdf)
+---
+
+_Thanks for visiting my profile!_
